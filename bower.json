@@ -1,0 +1,22 @@
+{
+  "name": "purescript-ordered-lists",
+  "authors": [
+    "Matthew Leon <ml@matthewleon.com>"
+  ],
+  "description": "Ordered lists",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^2.3.0",
+    "purescript-console": "^2.0.0",
+    "purescript-lists": "^3.4.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^2.0.0"
+  }
+}
